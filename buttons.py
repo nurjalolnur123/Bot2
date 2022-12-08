@@ -3,21 +3,12 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeybo
 
 kb = [
         [
-            types.KeyboardButton(text="💻 Mac"),
-            types.KeyboardButton(text="📱 Iphone"),
-            types.KeyboardButton(text="🎧 AirPods"),
+            types.KeyboardButton(text="Google"),
+            types.KeyboardButton(text="Yandex"),
+            types.KeyboardButton(text="DuckDuckGo"),
         ],
         [
-            types.KeyboardButton(text="📱 Ipad"),
-            types.KeyboardButton(text="⌚️ Watch"),
-            types.KeyboardButton(text="📺 Apple TV & Home"),
-        ],
-        [
-            types.KeyboardButton(text="🍏 Apple veb-sayti"),
-            types.KeyboardButton(text="✅ Aksessuarlar"),
-            types.KeyboardButton(text="📊Foydalanuvchilar")
-        ],
-        [
-            types.KeyboardButton(text="👨‍💻 Dasturchi")
-        ],
+            types.KeyboardButton(text="Bing"),
+            types.KeyboardButton(text="Brave")
+        ]
     ]
