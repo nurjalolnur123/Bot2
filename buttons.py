@@ -9,6 +9,7 @@ kb = [
         ],
         [
             types.KeyboardButton(text="Bing"),
-            types.KeyboardButton(text="Brave")
+            types.KeyboardButton(text="Brave"),
+            types.KeyboardButton(text="📊Foydalanuvchilar")
         ]
     ]
