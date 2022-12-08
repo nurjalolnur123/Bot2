@@ -18,6 +18,6 @@ kb = [
             types.KeyboardButton(text="📊Foydalanuvchilar")
         ],
         [
-            types.KeyboardButton(text="🧑‍💻 Dasturchi")
+            types.KeyboardButton(text="👨‍💻 Dasturchi")
         ],
     ]
